@@ -1,5 +1,7 @@
 {
-  "name": "anargya",
-  "description": "AI Agent for task automation",
-  "did": "TCLcicACXuhWJc6A5V1xy6ZXnpt7tkTmA3y"
+  "agent": {
+    "name": "anargya",
+    "description": "AI Agent for task automation",
+    "did": "TCLcicACXuhWJc6A5V1xy6ZXnpt7tkTmA3y"
+  }
 }
